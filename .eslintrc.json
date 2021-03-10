@@ -1,0 +1,28 @@
+{
+    "rules": {
+        "semi": "off",
+        "indent": [
+            "error",
+            4
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "complexity": [
+            "error",
+            5
+        ],
+        "@typescript-eslint/space-before-function-paren": "off",
+        "@typescript-eslint/semi": [
+            "error"
+        ],
+        "@typescript-eslint/indent": [
+            "error",
+            4
+        ]
+    },
+    "extends": [
+        "plugin:adonis/typescriptApp"
+    ]
+}
