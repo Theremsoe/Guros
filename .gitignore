@@ -45,3 +45,4 @@ coverage
 .DS_STORE
 .env
 tmp
+.nyc_output
